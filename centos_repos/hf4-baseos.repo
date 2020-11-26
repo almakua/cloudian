@@ -1,0 +1,5 @@
+[BaseOS]
+name=HyperFile 4 CentOS BaseOS Packages
+baseurl=http://rpm.hf4.cloudian.com/BaseOS/Packages/
+enabled=1
+gpgcheck=0

@@ -1,0 +1,5 @@
+[AppStream]
+name=HyperFile 4 CentOS AppStream Packages
+baseurl=http://rpm.hf4.cloudian.com/AppStream/Packages/
+enabled=1
+gpgcheck=0

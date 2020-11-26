@@ -1,0 +1,5 @@
+[HF4Repo]
+name=HyperFile 4 Devs Packages
+baseurl=http://rpm.hf4.cloudian.com/HF4/Packages/
+enabled=1
+gpgcheck=0

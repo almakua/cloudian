@@ -1,0 +1,5 @@
+[extras]
+name=HyperFile 4 CentOS extras Packages
+baseurl=http://rpm.hf4.cloudian.com/extras/Packages/
+enabled=1
+gpgcheck=0

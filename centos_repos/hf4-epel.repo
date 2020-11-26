@@ -1,0 +1,5 @@
+[epel]
+name=HyperFile 4 CentOS epel Packages
+baseurl=http://rpm.hf4.cloudian.com/epel/Packages/
+enabled=1
+gpgcheck=0
